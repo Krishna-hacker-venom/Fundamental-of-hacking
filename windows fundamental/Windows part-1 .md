@@ -1,11 +1,5 @@
 # Windows Security
 
-**Author:** Security Analysis & Penetration Testing  
-**Last Updated:** 2026  
-**Target Audience:** Security Professionals, System Administrators, Ethical Hackers
-
----
-
 ## Table of Contents
 
 1. [Windows Current Versions](#1-windows-current-versions)
